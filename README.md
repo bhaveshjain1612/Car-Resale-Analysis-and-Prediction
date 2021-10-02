@@ -1,4 +1,18 @@
-# Car-Resale-Analysis-and-Prediction
-This project aims to find trends in the resale values of various cars and predict near true values for test cases
-Link to Dashboard<b>
-  https://dataplatform.cloud.ibm.com/dashboards/7951e9c0-c358-4277-936f-3cae45ae4ec4/view/7234aa393e833ef770e7c4e407992c0674642359e7bb865287d37b490b657797f36f47c5c87d4f5fd8470732a5e4430a9f
+# Car Resale Analysis and Prediction
+
+## Contents
+ 1. [Overview](Overview) 
+ 2. [Problem Introduction](Problem-Introduction) 
+ 3. [Methodology](Methodology) 
+ 4. [Data Cleaning](Data-Cleaning) 
+ 5. [Data Analysis](Methodology) 
+ 6. [Predictive Modelling](Data-Cleaning) 
+ 7. [Result](Result)
+ 8. [References](References)
+ 
+## Overview
+The Project revolves around working with unclean data of automobile resale in India to draw meaningful insights and create a resale value predictor.<br>
+The domains worked with over here are :- <br> 
+ - **Data Wrangling** to clean the raw data.
+ - **Data Analysis** to draw insights from the cleaned data.
+ - **Machine Learning** to create the prediction model.
