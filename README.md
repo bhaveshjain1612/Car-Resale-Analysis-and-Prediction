@@ -7,11 +7,13 @@ Dashboard Link
  1. [Overview](#overview) 
  2. [Problem Introduction](#problem-introduction) 
  3. [Methodology](#methodology) 
- 4. [Data Cleaning](#data-cleaning) 
+ 4. [Data Cleaning](#data-cleaning)
  5. [Data Analysis](#data-analysis) 
- 6. [Predictive Modelling](#predictive-modelling) 
- 7. [Result](#result)
- 8. [References](#references)
+ 6. [Data Visualisation](#data-visualisation) 
+ 7. [Dashbaording](#dashboarding) 
+ 8. [Predictive Modelling](#predictive-modelling) 
+ 9. [Result](#result)
+ 10. [References](#references)
  
 ## Overview
 The Project revolves around working with unclean data of automobile resale in India to draw meaningful insights and create a resale value predictor.<br>
@@ -21,10 +23,31 @@ The domains worked with over here are :- <br>
  - **Machine Learning** to create the prediction model.
  
 ## Problem Introduction
-**What**<br>
-The problem is to create a prediction model and analysis dashboard.<br>
-**Who**<br>
-The primary target auadience are the second and third hand car dealers working individually or are new entrants in the market.<br>
-**Why**<br>
-The new entrants and smaller dealers often do not have access to market data or high end mechanics. I aim to simplify their decision making on what car to buy for resale and waht price by looking at the market composition and predicted price.
+### What?
+>The problem is to create a prediction model and analysis dashboard.<br>
+### Who? 
+>The primary target auadience are the second and third hand car dealers working individually or are new entrants in the market.<br>
+### Why?
+>The new entrants and smaller dealers often do not have access to market data or high end mechanics. I aim to simplify their decision making on what car to buy for resale and waht price by looking at the market composition and predicted price.
 
+## Methodology
+<details>
+<summary>Step 1 - Data Cleaning</summary>
+The Unclean raw data is cleaned and exported as new sheet to be used later<br>
+</details>
+<details>
+<summary>Step 2 - Data Analysis</summary>
+Looking at the composition of the data nd various statistical measure for the same.<br>
+</details>
+<details>
+<summary>Step 3 - Data Visualisation</summary>
+Finding patterns and relationships between various variables using plots and charts<br>
+</details>
+<details>
+<summary>Step 4 - Dashboarding</summary>
+Creation of an interactive dashboard using IBM cognos to provide insights and visualisations on the go.<br>
+</details>
+<details>
+<summary>Step 5 - Predictive Modelling</summary>
+Using machine learning to create a resale price prediction model<br>
+</details>
