@@ -8,13 +8,15 @@ Dashboard Link
  2. [Problem Introduction](#problem-introduction) 
  3. [Methodology](#methodology) 
  4. [Data Collection and Cleaning](#data-collection-and-cleaning)
- 5. [Data Analysis](#data-analysis) 
- 6. [Data Visualisation](#data-visualisation) 
- 7. [Dashbaording](#dashboarding) 
- 8. [Predictive Modelling](#predictive-modelling) 
- 9. [Result](#result)
- 10. [References](#references)
- 
+ 5. <!--
+ 6. [Data Analysis](#data-analysis) 
+ 7. [Data Visualisation](#data-visualisation) 
+ 8. [Dashbaording](#dashboarding) 
+ 9. [Predictive Modelling](#predictive-modelling) 
+ 10. [Result](#result)
+ 11. [References](#references)
+--> 
+
 ## Overview
 The Project revolves around working with unclean data of automobile resale in India to draw meaningful insights and create a resale value predictor.<br>
 The domains worked with over here are :- <br> 
