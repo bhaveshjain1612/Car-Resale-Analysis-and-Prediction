@@ -313,7 +313,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 6.0,5.0,Individual,90.0,First Owner,Diesel,Manual,19.6,1461,108.45,5,RENAULT,DUSTER,110PS DIESEL RXZ
 4.78,4.0,Individual,90.0,First Owner,Diesel,Manual,20.5,1248,91.72,5,FIAT,AVVENTURA,URBAN CROSS 1.3 MULTIJET ACTIVE
 4.91,4.0,Dealer,27.876,First Owner,Petrol,Manual,20.4,1197,81.8,5,MARUTI,SWIFT,VXI OPTIONAL
-28.9,5.0,Dealer,56.0,First Owner,Petrol,Automatic,12.63,1999,177.0,5,LAND,ROVER,DISCOVERY SPORT SI4 HSE
+28.9,5.0,Dealer,56.0,First Owner,Petrol,Automatic,12.63,1999,177.0,5,LAND-ROVER,DISCOVERY,SPORT SI4 HSE
 1.6,13.0,Individual,57.215,First Owner,Petrol,Manual,20.36,1197,78.9,5,HYUNDAI,I10,ASTA
 9.85,2.0,Dealer,5.4,First Owner,Petrol,Manual,18.27,998,118.35,5,HYUNDAI,VENUE,SX TURBO BSIV
 5.0,7.0,Individual,60.0,First Owner,Diesel,Manual,23.4,1248,74.0,5,MARUTI,SWIFT,DZIRE VDI
@@ -366,7 +366,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 7.5,4.0,Individual,22.0,First Owner,Diesel,Manual,28.4,1248,74.02,5,MARUTI,SWIFT,DZIRE VDI
 2.99,11.0,Dealer,57.977,First Owner,Petrol,Manual,17.0,1497,118.0,5,HONDA,CITY,1.5 V MT
 3.78,5.0,Individual,70.0,First Owner,Diesel,Manual,24.4,1120,71.0,5,HYUNDAI,XCENT,1.1 CRDI BASE
-70.0,3.0,Dealer,13.0,First Owner,Petrol,Automatic,12.19,1997,237.36,4,LAND,ROVER,RANGE ROVER EVOQUE CONVERTIBLE HSE DYNAMIC
+70.0,3.0,Dealer,13.0,First Owner,Petrol,Automatic,12.19,1997,237.36,4,LAND-ROVER,RANGE,ROVER EVOQUE CONVERTIBLE HSE DYNAMIC
 13.25,9.0,Dealer,67.0,First Owner,Petrol,Automatic,17.33,1998,189.08,4,MINI,COOPER,3 DOOR S
 5.24,7.0,Dealer,48.242,First Owner,Diesel,Manual,20.77,1248,88.76,7,MARUTI,ERTIGA,VDI
 1.69,9.0,Dealer,68.0,First Owner,Diesel,Manual,20.0,1399,68.05,5,FORD,FIGO,DIESEL EXI
@@ -404,7 +404,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 3.25,7.0,Individual,30.0,First Owner,Petrol,Manual,20.51,998,67.06,5,MARUTI,WAGON,R VXI WITH ABS
 4.35,7.0,Dealer,63.0,First Owner,Petrol,Manual,17.8,1497,117.3,5,HONDA,CITY,I VTEC S
 4.55,3.0,Dealer,28.0,First Owner,CNG,Manual,31.79,998,58.33,5,MARUTI,CELERIO,VXI CNG BSIV
-62.0,3.0,Individual,25.0,First Owner,Petrol,Automatic,9.17,2995,335.25,7,LAND,ROVER,DISCOVERY HSE LUXURY 3.0 SI6
+62.0,3.0,Individual,25.0,First Owner,Petrol,Automatic,9.17,2995,335.25,7,LAND-ROVER,DISCOVERY,HSE LUXURY 3.0 SI6
 7.55,4.0,Dealer,32.226,First Owner,Petrol,Manual,17.8,1497,117.3,5,HONDA,CITY,I VTEC V
 6.5,8.0,Dealer,63.432,First Owner,Diesel,Automatic,13.73,1995,148.0,5,RENAULT,KOLEOS,2.0 DIESEL
 40.0,3.0,Dealer,8.0,First Owner,Petrol,Automatic,16.6,1798,177.0,4,AUDI,A3,CABRIOLET 40 TFSI PREMIUM PLUS
@@ -626,7 +626,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 4.75,8.0,Dealer,80.0,First Owner,Diesel,Manual,22.7,1498,89.84,5,FORD,ECOSPORT,1.5 DV5 MT TITANIUM OPTIONAL
 7.5,2.0,Individual,6.0,First Owner,Petrol,Manual,17.0,1198,108.5,5,TATA,NEXON,1.2 REVOTRON XM
 6.8,3.0,Individual,100.0,First Owner,Diesel,Manual,22.95,1248,73.97,5,TATA,ZEST,PREMIO
-40.0,2.0,Dealer,12.0,First Owner,Diesel,Automatic,12.63,2179,147.5,5,LAND,ROVER,DISCOVERY SPORT 2015-2020 TD4 HSE
+40.0,2.0,Dealer,12.0,First Owner,Diesel,Automatic,12.63,2179,147.5,5,LAND-ROVER,DISCOVERY,SPORT 2015-2020 TD4 HSE
 3.8,7.0,Dealer,54.303,First Owner,Petrol,Manual,16.78,1496,88.73,5,TOYOTA,ETIOS,G
 4.99,8.0,Dealer,65.0,First Owner,Diesel,Manual,17.2,1968,138.1,5,SKODA,SUPERB,ELEGANCE 2.0 TDI MT
 5.25,4.0,Dealer,30.0,First Owner,Petrol,Manual,18.7,1199,88.7,5,HONDA,JAZZ,1.2 S I VTEC
@@ -706,7 +706,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 3.5,1.0,Individual,5.0,First Owner,Petrol,Manual,22.05,796,47.3,5,MARUTI,ALTO,800 LXI
 3.0,2.0,Individual,25.0,First Owner,Petrol,Manual,25.17,799,53.3,5,RENAULT,KWID,RXT OPTIONAL
 1.68,11.0,Individual,100.0,First Owner,Petrol,Manual,20.92,998,67.1,5,MARUTI,ALTO,K10 2010-2014 VXI
-25.0,9.0,Individual,175.0,First Owner,Diesel,Automatic,11.8,2993,241.6,7,LAND,ROVER,DISCOVERY 4 TDV6 AUTO DIESEL
+25.0,9.0,Individual,175.0,First Owner,Diesel,Automatic,11.8,2993,241.6,7,LAND-ROVER,DISCOVERY,4 TDV6 AUTO DIESEL
 14.0,9.0,Dealer,86.5,First Owner,Diesel,Automatic,14.21,2143,203.0,5,MERCEDES-BENZ,E-CLASS,E250 CDI BLUE EFFICIENCY
 0.7,9.0,Individual,25.0,First Owner,Petrol,Manual,25.4,624,37.5,4,TATA,NANO,LX SE
 3.5,9.0,Individual,120.0,First Owner,Diesel,Manual,19.3,1248,73.9,5,MARUTI,SWIFT,DZIRE VDI
@@ -1152,7 +1152,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 3.1,7.0,Individual,185.0,First Owner,Diesel,Manual,20.45,1461,83.8,5,RENAULT,DUSTER,85PS DIESEL RXE
 5.56,10.0,Individual,60.0,First Owner,Diesel,Manual,12.05,2179,120.0,8,MAHINDRA,SCORPIO,VLX 2WD AIRBAG BSIII
 8.25,7.0,Individual,170.0,First Owner,Diesel,Manual,15.1,2179,140.0,7,MAHINDRA,XUV500,W6 2WD
-25.9,7.0,Dealer,82.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND,ROVER,RANGE ROVER EVOQUE 2.2L PURE
+25.9,7.0,Dealer,82.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND-ROVER,RANGE,ROVER EVOQUE 2.2L PURE
 4.65,10.0,Individual,60.0,First Owner,Diesel,Manual,12.05,2179,120.0,8,MAHINDRA,SCORPIO,VLX 2WD AIRBAG BSIV
 5.51,5.0,Dealer,13.433,First Owner,Petrol,Manual,17.8,1198,86.7,5,HONDA,AMAZE,VX I-VTEC
 6.0,6.0,Individual,35.0,First Owner,Diesel,Manual,22.54,1396,88.73,5,HYUNDAI,I20,SPORTZ 1.4 CRDI
@@ -1274,7 +1274,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 4.0,5.0,Individual,60.0,First Owner,Diesel,Manual,24.0,1120,70.0,5,HYUNDAI,GRAND,I10 CRDI SPORTZ
 8.5,8.0,Individual,40.0,First Owner,Diesel,Manual,12.99,2494,100.6,8,TOYOTA,INNOVA,2.5 G (DIESEL) 8 SEATER
 3.5,6.0,Individual,60.0,First Owner,Petrol,Manual,16.47,1198,74.0,5,VOLKSWAGEN,POLO,1.2 MPI TRENDLINE
-21.0,9.0,Dealer,70.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND,ROVER,RANGE ROVER EVOQUE 2.2L PURE
+21.0,9.0,Dealer,70.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND-ROVER,RANGE,ROVER EVOQUE 2.2L PURE
 2.7,8.0,Individual,70.0,First Owner,Diesel,Manual,23.03,1396,69.0,5,TATA,INDIGO,LX BSIV
 3.0,13.0,Individual,120.0,First Owner,Diesel,Manual,10.5,2609,120.0,9,MAHINDRA,SCORPIO,2006-2009 LX 2.6 TURBO 9 STR
 5.0,9.0,Individual,147.0,First Owner,Diesel,Manual,14.0,2523,75.0,8,MAHINDRA,SCORPIO,EX
@@ -1914,7 +1914,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 2.05,11.0,Dealer,35.76,First Owner,Petrol,Manual,23.95,998,67.05,5,MARUTI,ALTO,K10 VXI
 2.15,9.0,Individual,76.0,First Owner,Diesel,Manual,25.44,936,57.6,5,CHEVROLET,BEAT,DIESEL LT
 3.7,9.0,Individual,90.0,First Owner,Diesel,Manual,22.32,1582,126.32,5,HYUNDAI,VERNA,1.6 SX
-12.75,8.0,Dealer,80.0,First Owner,Diesel,Automatic,12.39,2179,147.51,5,LAND,ROVER,FREELANDER 2 SE
+12.75,8.0,Dealer,80.0,First Owner,Diesel,Automatic,12.39,2179,147.51,5,LAND-ROVER,FREELANDER,2 SE
 9.8,2.0,Individual,50.0,First Owner,Diesel,Manual,18.49,1493,100.0,7,MAHINDRA,TUV,300 T10 OPT DUAL TONE BSIV
 3.49,10.0,Individual,100.0,First Owner,Diesel,Automatic,20.0,1968,138.1,5,SKODA,LAURA,AMBIENTE 2.0 TDI CR AT
 2.3,8.0,Dealer,39.0,First Owner,Petrol,Manual,17.92,1086,62.1,5,HYUNDAI,SANTRO,XING GL PLUS
@@ -2201,7 +2201,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 2.1,6.0,Individual,70.0,First Owner,Petrol,Manual,22.74,796,47.3,5,MARUTI,ALTO,800 LXI
 1.75,11.0,Dealer,65.0,First Owner,Petrol,Manual,18.2,998,67.1,5,MARUTI,ZEN,ESTILO VXI BSIII
 4.5,7.0,Dealer,69.0,First Owner,Petrol,Automatic,14.3,1598,103.5,5,SKODA,RAPID,1.6 MPI AT ELEGANCE
-28.5,5.0,Dealer,145.0,First Owner,Diesel,Automatic,12.81,1999,148.31,7,LAND,ROVER,DISCOVERY SPORT TD4 HSE 7S
+28.5,5.0,Dealer,145.0,First Owner,Diesel,Automatic,12.81,1999,148.31,7,LAND-ROVER,DISCOVERY,SPORT TD4 HSE 7S
 3.2,8.0,Individual,140.0,First Owner,Diesel,Manual,14.0,2498,112.0,8,MAHINDRA,XYLO,D4 BSIII
 7.75,3.0,Dealer,29.0,First Owner,Diesel,Automatic,28.4,1248,74.02,5,MARUTI,SWIFT,DZIRE AMT ZDI
 8.5,3.0,Individual,40.0,First Owner,Diesel,Manual,16.55,2498,105.0,6,MAHINDRA,THAR,CRDE
@@ -2753,7 +2753,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 8.0,4.0,Individual,50.0,First Owner,Diesel,Manual,24.3,1248,88.5,5,MARUTI,VITARA,BREZZA ZDI
 5.75,5.0,Dealer,30.0,First Owner,Petrol,Manual,22.0,1197,81.8,5,MARUTI,SWIFT,VXI BSIV
 3.6,8.0,Dealer,27.562,First Owner,Petrol,Automatic,16.95,1197,78.9,5,HYUNDAI,I10,SPORTZ AT
-50.0,6.0,Individual,40.0,First Owner,Diesel,Automatic,12.97,2179,187.7,5,LAND,ROVER,DISCOVERY SPORT SD4 HSE LUXURY
+50.0,6.0,Individual,40.0,First Owner,Diesel,Automatic,12.97,2179,187.7,5,LAND-ROVER,DISCOVERY,SPORT SD4 HSE LUXURY
 10.25,2.0,Dealer,29.0,First Owner,Diesel,Manual,25.1,1248,88.5,5,MARUTI,S-CROSS,2017-2020 ZETA DDIS 200 SH
 8.0,3.0,Dealer,23.206,First Owner,Petrol,Manual,19.34,1462,103.0,7,MARUTI,ERTIGA,VXI PETROL
 3.3,4.0,Dealer,33.0,First Owner,Petrol,Manual,24.7,796,47.3,5,MARUTI,ALTO,800 LXI OPTIONAL
@@ -2919,7 +2919,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 2.88,9.0,Dealer,30.448,First Owner,Petrol,Manual,20.36,1197,78.9,5,HYUNDAI,I10,SPORTZ
 6.18,7.0,Dealer,27.363,First Owner,Petrol,Automatic,17.21,1197,103.6,5,VOLKSWAGEN,POLO,GT TSI
 7.85,4.0,Dealer,54.688,First Owner,CNG,Manual,17.5,1373,80.46,7,MARUTI,ERTIGA,VXI CNG
-12.0,12.0,Dealer,97.0,First Owner,Diesel,Automatic,0.0,2179,115.0,5,LAND,ROVER,FREELANDER 2 TD4 SE
+12.0,12.0,Dealer,97.0,First Owner,Diesel,Automatic,0.0,2179,115.0,5,LAND-ROVER,FREELANDER,2 TD4 SE
 0.9,20.0,Individual,10.0,First Owner,Petrol,Manual,12.8,1817,75.0,5,AMBASSADOR,CLASSIC,1800 ISZ MPFI AC PS
 5.75,6.0,Dealer,35.0,First Owner,Petrol,Manual,17.19,1197,81.86,5,HYUNDAI,I20,ACTIVE 1.2 S
 5.75,5.0,Dealer,54.162,First Owner,Diesel,Manual,20.14,1498,88.8,5,VOLKSWAGEN,POLO,1.5 TDI COMFORTLINE
@@ -2974,7 +2974,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 6.25,8.0,Individual,47.5,First Owner,Diesel,Manual,23.4,1248,74.0,5,MARUTI,SWIFT,DZIRE VDI
 3.11,11.0,Dealer,88.72,First Owner,Petrol,Manual,14.0,1595,102.0,5,VOLKSWAGEN,JETTA,1.6 TRENDLINE
 3.25,5.0,Individual,133.0,First Owner,Diesel,Manual,14.95,2489,93.7,7,MAHINDRA,XYLO,D4
-34.0,10.0,Dealer,78.0,First Owner,Diesel,Automatic,11.49,4367,335.3,5,LAND,ROVER,RANGE ROVER VOGUE SE 4.4 SDV8
+34.0,10.0,Dealer,78.0,First Owner,Diesel,Automatic,11.49,4367,335.3,5,LAND-ROVER,RANGE,ROVER VOGUE SE 4.4 SDV8
 6.25,7.0,Dealer,66.852,First Owner,Diesel,Manual,25.1,1498,98.6,5,HONDA,CITY,I DTEC VX
 8.45,5.0,Dealer,47.592,First Owner,Petrol,Automatic,18.0,1497,117.3,5,HONDA,CITY,I VTEC CVT VX
 15.12,4.0,Dealer,17.485,First Owner,Petrol,Automatic,16.0,1368,160.0,5,JEEP,COMPASS,BLACK PACK EDITION
@@ -3544,7 +3544,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 5.0,9.0,Dealer,78.0,First Owner,Petrol,Manual,17.1,1591,121.3,5,HYUNDAI,VERNA,1.6 SX VTVT (O)
 7.5,5.0,Dealer,13.321,First Owner,Petrol,Manual,17.8,1497,117.3,5,HONDA,CITY,I VTEC VX
 10.5,8.0,Dealer,77.0,First Owner,Diesel,Automatic,19.27,2143,167.62,5,MERCEDES-BENZ,C-CLASS,C 220D AVANTGARDE EDITION C
-21.5,11.0,Dealer,120.0,First Owner,Diesel,Automatic,12.35,2179,187.74,5,LAND,ROVER,FREELANDER 2 HSE SD4
+21.5,11.0,Dealer,120.0,First Owner,Diesel,Automatic,12.35,2179,187.74,5,LAND-ROVER,FREELANDER,2 HSE SD4
 4.25,8.0,Individual,70.0,First Owner,Diesel,Manual,21.9,1396,88.76,5,HYUNDAI,I20,MAGNA 1.4 CRDI (DIESEL)
 2.5,11.0,Individual,90.0,First Owner,Diesel,Manual,18.8,1248,90.0,5,TATA,MANZA,AQUA QUADRAJET
 5.75,6.0,Dealer,59.769,First Owner,Petrol,Automatic,19.56,1197,81.8,5,MARUTI,BALENO,ZETA CVT
@@ -3771,7 +3771,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 9.25,5.0,Dealer,80.0,First Owner,Petrol,Manual,13.0,1591,121.3,5,HYUNDAI,CRETA,1.6 VTVT SX PLUS
 2.6,12.0,Individual,100.0,First Owner,Diesel,Manual,13.6,2523,63.0,7,MAHINDRA,BOLERO,SLE
 11.51,6.0,Dealer,199.253,First Owner,Diesel,Manual,12.99,2494,100.6,8,TOYOTA,INNOVA,2.5 VX (DIESEL) 8 SEATER
-32.0,5.0,Dealer,27.69,First Owner,Diesel,Automatic,12.81,1999,148.31,7,LAND,ROVER,DISCOVERY SPORT TD4 HSE 7S
+32.0,5.0,Dealer,27.69,First Owner,Diesel,Automatic,12.81,1999,148.31,7,LAND-ROVER,DISCOVERY,SPORT TD4 HSE 7S
 4.25,8.0,Individual,120.0,First Owner,Diesel,Manual,14.0,2179,138.1,7,TATA,SAFARI,STORME VX
 4.21,5.0,Dealer,22.756,First Owner,Petrol,Manual,21.79,998,67.05,5,MARUTI,WAGON,R VXI
 4.5,8.0,Dealer,63.0,First Owner,Diesel,Manual,13.93,2179,138.03,7,TATA,SAFARI,2005-2017 DICOR 2.2 EX 4X2 BS IV
@@ -4104,7 +4104,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 3.0,10.0,Individual,84.7,First Owner,Diesel,Manual,15.0,1896,105.0,5,VOLKSWAGEN,JETTA,2.0 TDI COMFORTLINE
 2.81,5.0,Dealer,21.223,First Owner,Petrol,Manual,21.1,814,55.2,5,HYUNDAI,EON,ERA PLUS
 2.8,11.0,Dealer,36.704,First Owner,Petrol,Manual,18.6,1197,81.83,5,HYUNDAI,I20,2015-2017 MAGNA 1.2
-26.5,10.0,Dealer,78.0,First Owner,Diesel,Automatic,14.7,2993,241.4,6,LAND,ROVER,RANGE ROVER SPORT HSE
+26.5,10.0,Dealer,78.0,First Owner,Diesel,Automatic,14.7,2993,241.4,6,LAND-ROVER,RANGE,ROVER SPORT HSE
 5.45,4.0,Dealer,35.092,First Owner,Petrol,Manual,21.01,1197,81.8,5,MARUTI,BALENO,DELTA
 3.5,4.0,Individual,15.0,First Owner,Petrol,Manual,25.17,799,53.3,5,RENAULT,KWID,RXT
 3.5,8.0,Dealer,20.0,First Owner,Petrol,Manual,19.4,1198,86.8,5,HONDA,BRIO,VX
@@ -4128,7 +4128,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 6.9,5.0,Dealer,56.0,First Owner,Diesel,Manual,14.02,2179,118.3,8,MAHINDRA,XYLO,H4 8 STR
 9.0,10.0,Dealer,110.5,First Owner,Petrol,Automatic,11.74,1796,186.0,5,MERCEDES-BENZ,C-CLASS,C 200 CGI AVANTGARDE
 5.55,6.0,Dealer,37.782,First Owner,Petrol,Automatic,16.93,1197,103.2,5,VOLKSWAGEN,VENTO,1.2 TSI COMFORTLINE AT
-25.5,9.0,Dealer,87.5,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND,ROVER,RANGE ROVER EVOQUE 2.2L DYNAMIC
+25.5,9.0,Dealer,87.5,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND-ROVER,RANGE,ROVER EVOQUE 2.2L DYNAMIC
 3.25,10.0,Dealer,68.0,First Owner,Diesel,Manual,23.0,1396,90.0,5,HYUNDAI,I20,1.4 CRDI SPORTZ
 4.5,5.0,Dealer,41.001,First Owner,Petrol,Manual,18.16,1196,86.8,5,FORD,FIGO,1.2P TITANIUM PLUS MT
 2.55,10.0,Dealer,66.0,First Owner,Diesel,Manual,20.0,1399,68.05,5,FORD,FIGO,DIESEL ZXI
@@ -4480,7 +4480,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 4.0,5.0,Individual,21.0,First Owner,Petrol,Manual,18.15,1198,82.0,6,MAHINDRA,KUV,100 MFALCON G80 K6 PLUS
 44.0,6.0,Dealer,53.0,First Owner,Diesel,Automatic,11.3,2987,254.8,7,MERCEDES-BENZ,GL-CLASS,350 CDI BLUE EFFICIENCY
 7.5,4.0,Dealer,68.0,First Owner,Diesel,Manual,28.09,1248,88.5,5,MARUTI,CIAZ,S 1.3
-78.0,8.0,Dealer,75.0,First Owner,Diesel,Automatic,13.33,2993,244.1,5,LAND,ROVER,RANGE ROVER 3.0 VOGUE
+78.0,8.0,Dealer,75.0,First Owner,Diesel,Automatic,13.33,2993,244.1,5,LAND-ROVER,RANGE,ROVER 3.0 VOGUE
 7.25,4.0,Dealer,27.826,First Owner,Petrol,Automatic,19.0,1199,88.7,5,HONDA,JAZZ,1.2 V AT I VTEC
 7.95,3.0,Dealer,19.0,First Owner,Petrol,Manual,17.5,1199,88.7,5,HONDA,WR-V,I-VTEC VX
 9.95,7.0,Dealer,86.606,First Owner,Diesel,Manual,12.99,2494,100.6,7,TOYOTA,INNOVA,2.5 G (DIESEL) 7 SEATER
@@ -5391,7 +5391,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 16.11,5.0,Dealer,44.236,First Owner,Diesel,Manual,12.99,2494,100.6,7,TOYOTA,INNOVA,2.5 ZX DIESEL 7 SEATER
 2.9,3.0,Dealer,80.0,First Owner,Petrol,Manual,22.74,796,47.3,5,MARUTI,ALTO,800 LXI
 3.0,5.0,Individual,70.0,First Owner,Diesel,Manual,23.2,1248,73.94,5,MARUTI,RITZ,LDI
-63.0,7.0,Dealer,40.0,First Owner,Diesel,Automatic,12.65,2993,255.0,5,LAND,ROVER,RANGE ROVER SPORT SE
+63.0,7.0,Dealer,40.0,First Owner,Diesel,Automatic,12.65,2993,255.0,5,LAND-ROVER,RANGE,ROVER SPORT SE
 3.75,6.0,Individual,60.0,First Owner,Petrol,Manual,20.51,998,67.06,5,MARUTI,WAGON,R VXI WITH ABS
 8.0,6.0,Individual,147.0,First Owner,Diesel,Manual,14.0,2179,138.1,7,TATA,SAFARI,STORME VX
 3.5,4.0,Dealer,40.0,First Owner,Petrol,Manual,25.17,799,53.3,5,RENAULT,KWID,RXT OPTIONAL
@@ -6754,7 +6754,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 4.0,7.0,Dealer,49.86,First Owner,Petrol,Manual,18.6,1197,81.83,5,HYUNDAI,I20,SPORTZ 1.2
 5.25,6.0,Dealer,106.452,First Owner,Diesel,Manual,22.9,1248,74.0,5,MARUTI,SWIFT,ZDI
 7.95,3.0,Dealer,74.0,First Owner,Diesel,Manual,23.0,1498,98.96,5,FORD,ECOSPORT,2015-2021 1.5 DIESEL TREND PLUS BSIV
-32.9,5.0,Dealer,64.0,First Owner,Diesel,Automatic,12.63,2179,147.5,5,LAND,ROVER,DISCOVERY SPORT 2015-2020 TD4 HSE
+32.9,5.0,Dealer,64.0,First Owner,Diesel,Automatic,12.63,2179,147.5,5,LAND-ROVER,DISCOVERY,SPORT 2015-2020 TD4 HSE
 8.6,3.0,Dealer,32.0,First Owner,Diesel,Manual,21.19,1396,88.76,5,HYUNDAI,I20,ACTIVE SX DIESEL
 4.95,7.0,Dealer,59.4,First Owner,Diesel,Manual,20.14,1498,88.8,5,VOLKSWAGEN,POLO,1.5 TDI TRENDLINE
 4.45,7.0,Dealer,70.0,First Owner,Diesel,Automatic,21.58,1248,88.7,5,TATA,ZEST,AMT QUADRAJET 1.3 XMA
@@ -7112,7 +7112,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 3.5,7.0,Individual,100.0,First Owner,Petrol,Manual,18.9,1197,82.0,5,HYUNDAI,GRAND,I10 SPORTZ
 1.4,11.0,Dealer,161.728,First Owner,Petrol,Manual,15.6,1196,70.0,5,FORD,FIGO,PETROL ZXI
 9.5,3.0,Individual,15.0,First Owner,Diesel,Manual,16.55,2498,105.0,6,MAHINDRA,THAR,CRDE
-18.0,7.0,Individual,85.0,First Owner,Diesel,Automatic,12.35,2179,187.74,5,LAND,ROVER,FREELANDER 2 HSE
+18.0,7.0,Individual,85.0,First Owner,Diesel,Automatic,12.35,2179,187.74,5,LAND-ROVER,FREELANDER,2 HSE
 1.2,11.0,Individual,120.0,First Owner,Diesel,Manual,18.0,1248,75.0,5,TATA,INDICA,VISTA AQUA 1.3 QUADRAJET
 6.5,9.0,Dealer,157.0,First Owner,Diesel,Manual,14.8,2499,80.0,9,CHEVROLET,TAVERA,NEO 2 LT L 7C
 4.1,4.0,Dealer,82.0,First Owner,Petrol,Manual,18.9,998,67.1,5,MARUTI,WAGON,R VXI
@@ -8246,7 +8246,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 8.0,3.0,Individual,25.0,First Owner,Petrol,Automatic,21.4,1197,83.1,5,MARUTI,BALENO,ALPHA AUTOMATIC
 3.2,10.0,Dealer,63.0,First Owner,Petrol,Manual,20.36,1197,78.9,5,HYUNDAI,I10,SPORTZ 1.2
 4.31,2.0,Individual,25.0,First Owner,Petrol,Automatic,23.95,998,67.05,5,MARUTI,ALTO,K10 VXI AGS
-32.9,5.0,Dealer,64.0,First Owner,Diesel,Automatic,12.51,2179,187.7,7,LAND,ROVER,DISCOVERY SPORT 2015-2020 SD4 HSE LUXURY 7S
+32.9,5.0,Dealer,64.0,First Owner,Diesel,Automatic,12.51,2179,187.7,7,LAND-ROVER,DISCOVERY,SPORT 2015-2020 SD4 HSE LUXURY 7S
 7.1,3.0,Dealer,35.575,First Owner,Diesel,Manual,22.54,1396,88.73,5,HYUNDAI,I20,1.4 MAGNA EXECUTIVE
 5.0,9.0,Individual,60.0,First Owner,Diesel,Manual,15.96,2523,63.0,9,MAHINDRA,BOLERO,2011-2019 DI NON AC BS III SILVER
 2.85,4.0,Dealer,23.0,First Owner,Petrol,Manual,24.7,796,47.3,5,MARUTI,ALTO,800 LXI BSIV
@@ -8272,7 +8272,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 6.55,3.0,Dealer,75.0,First Owner,Diesel,Manual,20.14,1498,88.0,5,VOLKSWAGEN,POLO,2015-2019 1.5 TDI HIGHLINE
 2.6,8.0,Dealer,52.0,First Owner,Petrol,Manual,20.92,998,67.1,5,MARUTI,ALTO,K10 LXI
 5.35,3.0,Individual,25.0,First Owner,Petrol,Manual,20.3,1199,84.0,5,TATA,TIGOR,1.2 REVOTRON XZ
-43.5,4.0,Dealer,45.0,First Owner,Diesel,Automatic,15.68,1999,177.0,5,LAND,ROVER,RANGE ROVER EVOQUE 2.0 TD4 SE DYNAMIC
+43.5,4.0,Dealer,45.0,First Owner,Diesel,Automatic,15.68,1999,177.0,5,LAND-ROVER,RANGE,ROVER EVOQUE 2.0 TD4 SE DYNAMIC
 8.5,10.0,Dealer,169.0,First Owner,Diesel,Manual,12.8,2494,102.0,8,TOYOTA,INNOVA,2.5 V DIESEL 8-SEATER
 3.2,7.0,Dealer,48.0,First Owner,Petrol,Manual,18.9,998,67.1,5,MARUTI,WAGON,R VXI
 0.9,23.0,Individual,55.0,First Owner,Petrol,Manual,17.3,993,60.0,5,MARUTI,ZEN,BASE
@@ -8561,7 +8561,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 4.0,5.0,Individual,50.0,First Owner,Petrol,Manual,18.9,1197,82.0,5,HYUNDAI,GRAND,I10 SPORTZ
 2.15,10.0,Individual,100.0,First Owner,Petrol,Manual,20.92,998,67.1,5,MARUTI,ALTO,K10 2010-2014 VXI
 5.15,6.0,Dealer,46.0,First Owner,Petrol,Manual,22.0,1197,81.8,5,MARUTI,SWIFT,DZIRE ZXI 1.2 BS IV
-23.0,9.0,Dealer,89.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND,ROVER,RANGE ROVER EVOQUE 2.2L DYNAMIC
+23.0,9.0,Dealer,89.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND-ROVER,RANGE,ROVER EVOQUE 2.2L DYNAMIC
 7.8,4.0,Dealer,50.852,First Owner,Diesel,Manual,23.0,1498,98.96,5,FORD,ECOSPORT,2015-2021 1.5 DIESEL TITANIUM BSIV
 21.5,3.0,Dealer,116.084,First Owner,Diesel,Automatic,11.36,2755,171.5,7,TOYOTA,INNOVA,CRYSTA 2016-2020 2.8 ZX AT BSIV
 3.75,9.0,Individual,34.0,First Owner,Petrol,Manual,20.36,1197,78.9,5,HYUNDAI,I10,SPORTZ
@@ -9305,7 +9305,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 5.15,5.0,Dealer,60.0,First Owner,Petrol,Manual,18.6,1197,81.83,5,HYUNDAI,I20,MAGNA 1.2
 2.45,9.0,Dealer,35.0,First Owner,Petrol,Manual,20.36,1197,78.9,5,HYUNDAI,I10,MAGNA 1.2
 11.5,2.0,Dealer,9.0,First Owner,Petrol,Automatic,18.0,1497,117.6,5,HONDA,CITY,I-VTEC CVT ZX
-38.0,4.0,Individual,60.0,First Owner,Diesel,Automatic,12.83,2179,147.5,7,LAND,ROVER,DISCOVERY SPORT 2015-2020 TD4 SE 7S
+38.0,4.0,Individual,60.0,First Owner,Diesel,Automatic,12.83,2179,147.5,7,LAND-ROVER,DISCOVERY,SPORT 2015-2020 TD4 SE 7S
 6.0,1.0,Individual,3.8,First Owner,Petrol,Manual,20.7,1197,81.86,5,HYUNDAI,GRAND,I10 NIOS SPORTZ
 3.3,4.0,Individual,40.0,First Owner,CNG,Manual,26.6,998,58.16,5,MARUTI,WAGON,R LXI CNG
 3.4,4.0,Dealer,20.914,First Owner,Petrol,Manual,23.01,999,67.0,5,RENAULT,KWID,CLIMBER 1.0 MT
@@ -10397,7 +10397,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 4.15,6.0,Dealer,52.312,First Owner,Diesel,Manual,24.0,1120,70.0,5,HYUNDAI,GRAND,I10 CRDI MAGNA
 3.25,12.0,Individual,178.0,First Owner,Diesel,Manual,12.05,2179,120.0,7,MAHINDRA,SCORPIO,2009-2014 SLE 7S BSIII
 2.89,8.0,Dealer,39.569,First Owner,Diesel,Manual,28.4,1248,74.0,5,MARUTI,SWIFT,LDI
-28.99,10.0,Dealer,65.0,First Owner,Diesel,Automatic,10.2,3628,308.0,7,LAND,ROVER,RANGE ROVER 3.6 TDV8 VOGUE SE
+28.99,10.0,Dealer,65.0,First Owner,Diesel,Automatic,10.2,3628,308.0,7,LAND-ROVER,RANGE,ROVER 3.6 TDV8 VOGUE SE
 8.0,3.0,Dealer,38.0,First Owner,Diesel,Automatic,24.3,1248,88.5,5,MARUTI,VITARA,BREZZA ZDI PLUS AMT
 4.3,8.0,Dealer,113.414,First Owner,Diesel,Manual,20.54,1598,103.6,5,VOLKSWAGEN,VENTO,DIESEL HIGHLINE
 6.0,7.0,Individual,40.0,First Owner,Petrol,Manual,17.3,1497,117.3,7,HONDA,MOBILIO,V I VTEC
@@ -11213,7 +11213,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 4.75,4.0,Dealer,77.795,First Owner,Diesel,Manual,24.0,1186,73.97,5,HYUNDAI,GRAND,I10 1.2 CRDI SPORTZ
 4.0,9.0,Individual,250.0,First Owner,Diesel,Manual,19.3,1248,73.9,5,MARUTI,SWIFT,DZIRE VDI
 2.45,9.0,Individual,110.0,First Owner,Diesel,Manual,21.0,1461,64.1,5,MAHINDRA,VERITO,1.5 D4 BSIV
-17.75,10.0,Dealer,90.0,First Owner,Diesel,Automatic,0.0,2179,115.0,5,LAND,ROVER,FREELANDER 2 TD4 SE
+17.75,10.0,Dealer,90.0,First Owner,Diesel,Automatic,0.0,2179,115.0,5,LAND-ROVER,FREELANDER,2 TD4 SE
 7.5,4.0,Individual,30.0,First Owner,Diesel,Manual,25.5,1498,98.6,5,HONDA,WR-V,I-DTEC VX
 7.0,5.0,Individual,100.0,First Owner,Diesel,Manual,13.58,2499,72.4,9,CHEVROLET,TAVERA,NEO 3 MAX 9 STR BSIII
 0.99,13.0,Dealer,49.568,First Owner,Petrol,Manual,16.84,1193,64.4,5,TATA,INDICA,EGLS
@@ -12883,7 +12883,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 2.25,8.0,Individual,70.0,First Owner,Petrol,Manual,20.36,1197,78.9,5,HYUNDAI,I10,MAGNA
 52.0,9.0,Dealer,37.5,First Owner,Petrol,Automatic,6.0,5998,600.0,5,BENTLEY,CONTINENTAL,FLYING SPUR SPEED BSIV
 14.24,8.0,Dealer,66.0,First Owner,Diesel,Automatic,17.32,1968,184.0,5,AUDI,Q3,2.0 TDI QUATTRO
-41.0,3.0,Dealer,37.5,First Owner,Diesel,Automatic,12.51,2179,187.7,7,LAND,ROVER,DISCOVERY SPORT 2015-2020 SD4 HSE LUXURY 7S
+41.0,3.0,Dealer,37.5,First Owner,Diesel,Automatic,12.51,2179,187.7,7,LAND-ROVER,DISCOVERY,SPORT 2015-2020 SD4 HSE LUXURY 7S
 3.5,7.0,Individual,50.0,First Owner,Diesel,Manual,23.2,1248,73.94,5,MARUTI,RITZ,VDI
 10.99,5.0,Dealer,50.0,First Owner,Diesel,Manual,16.0,1997,140.0,7,MAHINDRA,XUV500,W10 1.99 MHAWK
 0.9,14.0,Individual,70.0,First Owner,Petrol,Manual,0.0,1086,62.0,5,HYUNDAI,SANTRO,XING GL
@@ -13186,7 +13186,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 31.25,5.0,Dealer,52.476,First Owner,Diesel,Automatic,12.07,2967,241.4,7,AUDI,Q7,2006-2020 35 TDI QUATTRO PREMIUM PLUS
 2.5,7.0,Dealer,43.0,First Owner,Petrol,Manual,21.1,814,55.2,5,HYUNDAI,EON,MAGNA PLUS
 12.45,3.0,Dealer,21.5,First Owner,Petrol,Automatic,13.0,1591,121.3,5,HYUNDAI,CRETA,1.6 VTVT AT SX PLUS
-59.5,5.0,Dealer,80.0,First Owner,Diesel,Automatic,12.65,2993,255.0,5,LAND,ROVER,RANGE ROVER SPORT SE
+59.5,5.0,Dealer,80.0,First Owner,Diesel,Automatic,12.65,2993,255.0,5,LAND-ROVER,RANGE,ROVER SPORT SE
 1.2,14.0,Individual,100.0,First Owner,Petrol,Manual,13.8,1299,70.0,5,FORD,IKON,1.3 FLAIR
 11.75,3.0,Dealer,14.548,First Owner,Diesel,Manual,19.67,1582,126.2,5,HYUNDAI,CRETA,1.6 CRDI SX
 6.5,5.0,Dealer,31.0,First Owner,Petrol,Automatic,21.4,1197,83.1,5,MARUTI,BALENO,DELTA AUTOMATIC
@@ -13321,7 +13321,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 5.55,4.0,Dealer,72.456,First Owner,Diesel,Manual,18.49,1493,100.0,7,MAHINDRA,TUV,300 T4
 4.0,7.0,Dealer,42.0,First Owner,Petrol,Manual,18.9,1197,81.86,5,HYUNDAI,GRAND,I10 MAGNA
 4.95,7.0,Dealer,68.0,First Owner,Diesel,Manual,26.0,1498,98.6,5,HONDA,CITY,I DTEC S
-39.8,3.0,Dealer,38.0,First Owner,Diesel,Automatic,18.0,2993,255.0,7,LAND,ROVER,DISCOVERY HSE LUXURY 3.0 TD6
+39.8,3.0,Dealer,38.0,First Owner,Diesel,Automatic,18.0,2993,255.0,7,LAND-ROVER,DISCOVERY,HSE LUXURY 3.0 TD6
 3.55,6.0,Dealer,29.428,First Owner,Petrol,Manual,18.6,1199,88.76,5,HONDA,AMAZE,S PETROL
 8.35,8.0,Dealer,59.0,First Owner,Diesel,Automatic,13.2,1995,170.0,5,BMW,3,SERIES 320D
 19.4,6.0,Dealer,47.0,First Owner,Diesel,Automatic,12.55,2982,168.5,7,TOYOTA,FORTUNER,4X4 AT
@@ -13381,7 +13381,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 3.25,9.0,Dealer,61.112,First Owner,Diesel,Manual,23.59,1364,67.1,5,TOYOTA,ETIOS,DIESEL TRD SPORTIVO
 6.5,4.0,Dealer,48.0,First Owner,Diesel,Automatic,28.4,1248,74.02,5,MARUTI,SWIFT,DZIRE AMT VDI
 4.25,7.0,Individual,80.0,First Owner,Diesel,Manual,14.02,2179,118.3,8,MAHINDRA,XYLO,H8 ABS
-21.5,8.0,Dealer,58.0,First Owner,Diesel,Automatic,0.0,1999,245.4,5,LAND,ROVER,RANGE ROVER EVOQUE 2.0 R-DYNAMIC SE DIESEL
+21.5,8.0,Dealer,58.0,First Owner,Diesel,Automatic,0.0,1999,245.4,5,LAND-ROVER,RANGE,ROVER EVOQUE 2.0 R-DYNAMIC SE DIESEL
 6.75,5.0,Individual,63.0,First Owner,Diesel,Manual,24.3,1248,88.5,5,MARUTI,VITARA,BREZZA ZDI PLUS DUAL TONE
 5.1,5.0,Dealer,66.0,First Owner,Petrol,Manual,18.7,1199,88.7,5,HONDA,JAZZ,1.2 S I VTEC
 3.92,8.0,Individual,98.0,First Owner,Diesel,Manual,14.0,2179,138.1,7,TATA,SAFARI,STORME LX
@@ -13591,7 +13591,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 18.75,2.0,Dealer,20.0,First Owner,Diesel,Automatic,13.68,2393,147.51,7,TOYOTA,INNOVA,CRYSTA 2016-2020 2.4 GX AT
 10.95,4.0,Dealer,32.0,First Owner,Petrol,Manual,15.8,1591,121.3,5,HYUNDAI,CRETA,1.6 SX OPTION
 6.75,5.0,Dealer,75.0,First Owner,Diesel,Automatic,21.66,1498,103.52,5,SKODA,RAPID,1.5 TDI AT ELEGANCE PLUS
-20.9,9.0,Dealer,98.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND,ROVER,RANGE ROVER EVOQUE 2.2L PURE
+20.9,9.0,Dealer,98.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND-ROVER,RANGE,ROVER EVOQUE 2.2L PURE
 6.05,6.0,Trustmark Dealer,70.727,First Owner,Petrol,Automatic,16.5,1499,110.0,5,FORD,ECOSPORT,1.5 TI VCT AT TITANIUM
 19.75,5.0,Dealer,40.0,First Owner,Diesel,Automatic,15.17,1968,181.0,5,AUDI,Q3,35 TDI QUATTRO PREMIUM PLUS
 5.2,5.0,Dealer,34.0,First Owner,Petrol,Manual,21.01,1197,81.8,5,MARUTI,BALENO,DELTA
@@ -13806,7 +13806,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 6.6,5.0,Dealer,49.0,First Owner,Diesel,Automatic,21.66,1498,103.52,5,SKODA,RAPID,1.5 TDI AT STYLE PLUS
 1.8,11.0,Individual,15.0,First Owner,Petrol,Manual,18.0,995,62.0,5,CHEVROLET,SPARK,1.0 LS
 3.7,2.0,Individual,25.0,First Owner,CNG,Manual,21.94,1196,61.7,5,MARUTI,EECO,CNG 5 SEATER AC BSIV
-46.5,4.0,Dealer,35.0,First Owner,Diesel,Automatic,12.51,2179,187.7,7,LAND,ROVER,DISCOVERY SPORT 2015-2020 SD4 HSE LUXURY 7S
+46.5,4.0,Dealer,35.0,First Owner,Diesel,Automatic,12.51,2179,187.7,7,LAND-ROVER,DISCOVERY,SPORT 2015-2020 SD4 HSE LUXURY 7S
 5.4,4.0,Dealer,37.999,First Owner,Petrol,Manual,18.6,1197,81.83,5,HYUNDAI,I20,ERA 1.2
 3.5,7.0,Dealer,53.589,First Owner,Diesel,Manual,25.8,1498,98.6,5,HONDA,AMAZE,VX I-DTEC
 4.35,8.0,Dealer,65.132,First Owner,Diesel,Manual,20.45,1461,83.8,5,NISSAN,TERRANO,XL 85 PS
@@ -13984,7 +13984,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 2.0,11.0,Individual,120.0,First Owner,Diesel,Manual,14.0,2523,75.0,7,MAHINDRA,SCORPIO,2009-2014 EX 2WD 7S
 6.25,3.0,Dealer,21.0,First Owner,Petrol,Manual,21.01,1197,81.8,5,MARUTI,BALENO,DELTA
 24.5,5.0,Dealer,29.0,First Owner,Diesel,Automatic,21.76,1995,188.0,5,BMW,3,SERIES GT LUXURY LINE
-39.9,3.0,Dealer,38.0,First Owner,Diesel,Automatic,18.0,2993,255.0,7,LAND,ROVER,DISCOVERY HSE LUXURY 3.0 TD6
+39.9,3.0,Dealer,38.0,First Owner,Diesel,Automatic,18.0,2993,255.0,7,LAND-ROVER,DISCOVERY,HSE LUXURY 3.0 TD6
 24.0,6.0,Dealer,50.0,First Owner,Diesel,Automatic,16.36,2179,187.7,5,JAGUAR,XF,2.2 LITRE LUXURY
 6.5,3.0,Dealer,40.2,First Owner,Petrol,Manual,17.8,1198,86.7,5,HONDA,AMAZE,VX I-VTEC
 7.2,5.0,Individual,110.0,First Owner,Diesel,Manual,21.38,1396,88.7,5,HYUNDAI,CRETA,1.4 CRDI S
@@ -14036,7 +14036,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 5.25,7.0,Dealer,48.0,First Owner,Diesel,Manual,26.0,1498,98.6,5,HONDA,CITY,I DTEC SV
 11.65,7.0,Dealer,87.36,First Owner,Diesel,Automatic,14.84,2143,170.0,5,MERCEDES-BENZ,C-CLASS,220 CDI AT
 14.5,7.0,Dealer,75.0,First Owner,Diesel,Automatic,11.78,2143,167.62,5,MERCEDES-BENZ,C-CLASS,C 220 CDI CELEBRATION EDITION
-92.0,4.0,Dealer,9.5,First Owner,Diesel,Automatic,12.65,2993,296.0,5,LAND,ROVER,RANGE ROVER SPORT 3.0 D SE
+92.0,4.0,Dealer,9.5,First Owner,Diesel,Automatic,12.65,2993,296.0,5,LAND-ROVER,RANGE,ROVER SPORT 3.0 D SE
 15.88,2.0,Individual,5.0,First Owner,Diesel,Manual,15.1,2179,152.87,7,MAHINDRA,XUV500,W9 BSIV
 5.5,7.0,Individual,177.0,First Owner,Diesel,Manual,15.1,2179,140.0,7,MAHINDRA,XUV500,W6 2WD
 5.0,7.0,Dealer,60.0,First Owner,Diesel,Manual,26.0,1498,98.6,5,HONDA,CITY,I DTEC SV
@@ -14137,8 +14137,8 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 4.5,7.0,Dealer,71.0,First Owner,Diesel,Manual,24.2,1498,98.6,7,HONDA,MOBILIO,S I DTEC
 11.5,10.0,Dealer,100.0,First Owner,Diesel,Automatic,16.55,1968,147.51,5,AUDI,A4,2.0 TDI
 4.65,6.0,Dealer,41.0,First Owner,Petrol,Manual,16.47,1198,74.0,5,VOLKSWAGEN,POLO,1.2 MPI COMFORTLINE
-45.0,2.0,Dealer,18.1,First Owner,Diesel,Automatic,12.83,2179,147.5,7,LAND,ROVER,DISCOVERY SPORT 2015-2020 TD4 SE 7S
-35.75,4.0,Dealer,35.8,First Owner,Diesel,Automatic,12.83,1999,148.31,7,LAND,ROVER,DISCOVERY SPORT TD4 SE
+45.0,2.0,Dealer,18.1,First Owner,Diesel,Automatic,12.83,2179,147.5,7,LAND-ROVER,DISCOVERY,SPORT 2015-2020 TD4 SE 7S
+35.75,4.0,Dealer,35.8,First Owner,Diesel,Automatic,12.83,1999,148.31,7,LAND-ROVER,DISCOVERY,SPORT TD4 SE
 4.5,8.0,Individual,50.0,First Owner,Diesel,Manual,19.01,1461,108.45,5,RENAULT,DUSTER,110PS DIESEL RXZ
 6.0,6.0,Dealer,59.0,First Owner,Diesel,Manual,23.65,1248,88.5,5,MARUTI,SX4,S CROSS DDIS 200 ALPHA
 5.29,4.0,Dealer,36.732,First Owner,Diesel,Manual,24.0,1186,73.97,5,HYUNDAI,GRAND,I10 1.2 CRDI ASTA
@@ -14276,7 +14276,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 8.9,2.0,Dealer,15.0,First Owner,Diesel,Automatic,21.5,1497,108.5,5,TATA,NEXON,1.5 REVOTORQ XMA
 4.12,7.0,Dealer,64.457,First Owner,Diesel,Manual,23.59,1364,67.04,5,TOYOTA,ETIOS,VD
 16.85,2.0,Dealer,21.0,First Owner,Diesel,Manual,13.68,2393,147.51,7,TOYOTA,INNOVA,CRYSTA 2016-2020 2.4 G MT
-69.75,2.0,Dealer,19.0,First Owner,Diesel,Automatic,22.3,1999,177.0,5,LAND,ROVER,RANGE ROVER VELAR R-DYNAMIC S DIESEL
+69.75,2.0,Dealer,19.0,First Owner,Diesel,Automatic,22.3,1999,177.0,5,LAND-ROVER,RANGE,ROVER VELAR R-DYNAMIC S DIESEL
 4.25,8.0,Dealer,90.923,First Owner,Diesel,Manual,19.87,1461,83.8,5,RENAULT,DUSTER,85PS DIESEL RXL
 3.75,8.0,Dealer,22.0,First Owner,Petrol,Manual,18.5,1197,82.9,5,HYUNDAI,I20,MAGNA OPTIONAL 1.2
 3.7,6.0,Dealer,58.0,First Owner,Petrol,Manual,18.0,1197,82.0,5,HYUNDAI,XCENT,1.2 KAPPA S CNG
@@ -14324,7 +14324,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 10.5,2.0,Dealer,15.0,First Owner,Petrol,Automatic,18.0,1497,117.3,5,HONDA,CITY,I VTEC CVT VX
 29.25,3.0,Dealer,11.0,First Owner,Diesel,Manual,14.24,2755,174.5,7,TOYOTA,FORTUNER,2016-2021 2.8 4WD MT
 2.8,5.0,Dealer,56.302,First Owner,CNG,Manual,26.6,998,58.16,5,MARUTI,WAGON,R LXI CNG
-30.0,11.0,Individual,80.0,First Owner,Diesel,Automatic,10.2,4367,308.0,7,LAND,ROVER,RANGE ROVER TDV8 (DIESEL)
+30.0,11.0,Individual,80.0,First Owner,Diesel,Automatic,10.2,4367,308.0,7,LAND-ROVER,RANGE,ROVER TDV8 (DIESEL)
 14.5,4.0,Dealer,61.0,First Owner,Diesel,Automatic,11.36,2755,171.5,7,TOYOTA,INNOVA,CRYSTA 2016-2020 2.8 GX AT BSIV
 31.5,3.0,Dealer,50.0,First Owner,Diesel,Automatic,12.9,2755,174.5,7,TOYOTA,FORTUNER,2016-2021 TRD 4X4 AT
 11.5,3.0,Individual,21.0,First Owner,Petrol,Automatic,17.8,1496,105.5,5,TOYOTA,YARIS,V CVT BSIV
@@ -14390,7 +14390,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 4.95,6.0,Dealer,47.0,First Owner,Diesel,Manual,21.14,1498,108.6,5,SKODA,RAPID,MONTE CARLO 1.5 TDI MT BSIV
 4.35,4.0,Individual,49.437,First Owner,Diesel,Manual,25.2,1248,74.0,5,MARUTI,SWIFT,LDI OPTIONAL
 3.85,9.0,Trustmark Dealer,62.928,First Owner,Petrol,Manual,16.8,1497,116.4,5,HONDA,CITY,S
-56.5,6.0,Dealer,104.0,First Owner,Diesel,Automatic,12.65,2993,296.0,5,LAND,ROVER,RANGE ROVER SPORT 3.0 D HSE
+56.5,6.0,Dealer,104.0,First Owner,Diesel,Automatic,12.65,2993,296.0,5,LAND-ROVER,RANGE,ROVER SPORT 3.0 D HSE
 4.5,9.0,Dealer,65.0,First Owner,Diesel,Automatic,16.2,1493,110.0,5,HYUNDAI,VERNA,TRANSFORM SX VGT CRDI AT BS III
 2.65,7.0,Dealer,25.0,First Owner,Petrol,Manual,22.74,796,47.3,5,MARUTI,ALTO,800 LXI
 6.0,4.0,Dealer,34.3,First Owner,Petrol,Manual,18.6,1197,81.83,5,HYUNDAI,I20,1.2 ASTA OPTION
@@ -14458,7 +14458,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 8.6,3.0,Dealer,42.0,First Owner,Petrol,Manual,20.65,1462,103.25,5,MARUTI,CIAZ,ALPHA
 3.45,10.0,Dealer,44.07,First Owner,Petrol,Manual,17.5,1197,85.8,5,MARUTI,SWIFT,DZIRE 1.2 VXI BSIV
 1.89,7.0,Dealer,61.0,First Owner,Diesel,Manual,25.44,936,57.6,5,CHEVROLET,BEAT,DIESEL LS
-22.75,9.0,Dealer,61.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND,ROVER,RANGE ROVER EVOQUE 2.2L DYNAMIC
+22.75,9.0,Dealer,61.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND-ROVER,RANGE,ROVER EVOQUE 2.2L DYNAMIC
 5.15,4.0,Individual,90.0,First Owner,Diesel,Manual,25.2,1248,74.0,5,MARUTI,SWIFT,VDI BSIV
 5.74,7.0,Dealer,73.0,First Owner,Diesel,Manual,25.1,1498,98.6,5,HONDA,CITY,I DTEC VX
 2.05,10.0,Dealer,91.002,First Owner,Petrol,Manual,19.81,1086,68.05,5,HYUNDAI,I10,ERA 1.1 ITECH SE
@@ -14719,7 +14719,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 5.5,6.0,Dealer,62.0,First Owner,Diesel,Manual,22.7,1598,118.0,5,MARUTI,SX4,S CROSS DDIS 320 DELTA
 3.65,8.0,Dealer,75.0,First Owner,Diesel,Manual,20.54,1598,103.6,5,VOLKSWAGEN,VENTO,DIESEL COMFORTLINE
 5.0,7.0,Dealer,56.0,First Owner,Petrol,Manual,17.4,1497,117.3,5,HONDA,CITY,I-VTEC S
-45.0,3.0,Dealer,18.0,First Owner,Diesel,Automatic,18.0,2993,255.0,7,LAND,ROVER,DISCOVERY SE 3.0 TD6
+45.0,3.0,Dealer,18.0,First Owner,Diesel,Automatic,18.0,2993,255.0,7,LAND-ROVER,DISCOVERY,SE 3.0 TD6
 4.45,2.0,Dealer,23.0,First Owner,Petrol,Manual,23.84,1199,84.0,5,TATA,TIAGO,1.2 REVOTRON XT
 10.31,8.0,Dealer,76.0,First Owner,Diesel,Automatic,20.0,2143,107.3,5,MERCEDES-BENZ,A,CLASS A180 CDI
 7.1,4.0,Dealer,20.0,First Owner,Petrol,Automatic,19.56,1197,81.8,5,MARUTI,BALENO,ALPHA CVT
@@ -14958,7 +14958,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 1.5,13.0,Individual,50.0,First Owner,Petrol,Manual,16.9,1061,64.9,5,MARUTI,ZEN,ESTILO SPORTS
 6.6,3.0,Dealer,36.79,First Owner,Petrol,Manual,21.4,1197,83.1,5,MARUTI,BALENO,DELTA 1.2
 55.0,6.0,Individual,27.0,First Owner,Diesel,Automatic,13.5,2987,254.79,5,MERCEDES-BENZ,S-CLASS,S 350 CDI
-26.75,5.0,Dealer,128.0,First Owner,Diesel,Automatic,12.63,2179,147.5,5,LAND,ROVER,DISCOVERY SPORT 2015-2020 TD4 HSE
+26.75,5.0,Dealer,128.0,First Owner,Diesel,Automatic,12.63,2179,147.5,5,LAND-ROVER,DISCOVERY,SPORT 2015-2020 TD4 HSE
 18.25,3.0,Dealer,11.0,First Owner,Petrol,Automatic,14.28,1798,138.03,5,TOYOTA,COROLLA,ALTIS 1.8 VL CVT
 3.8,7.0,Individual,69.8,First Owner,Petrol,Manual,15.6,1196,70.02,5,FORD,FIGO,PETROL TITANIUM
 3.85,4.0,Dealer,35.017,First Owner,Petrol,Automatic,24.04,999,67.0,5,RENAULT,KWID,AMT RXL
@@ -15113,7 +15113,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 7.8,5.0,Individual,42.5,First Owner,Diesel,Manual,18.49,1493,100.0,7,MAHINDRA,TUV,300 T8
 3.5,9.0,Individual,40.0,First Owner,Petrol,Manual,18.9,998,67.1,5,MARUTI,WAGON,R VXI BS IV
 5.25,7.0,Dealer,35.144,First Owner,Petrol,Manual,18.6,1197,81.83,5,HYUNDAI,I20,ASTA 1.2
-10.5,10.0,Dealer,82.0,First Owner,Diesel,Automatic,0.0,2179,115.0,5,LAND,ROVER,FREELANDER 2 TD4 SE
+10.5,10.0,Dealer,82.0,First Owner,Diesel,Automatic,0.0,2179,115.0,5,LAND-ROVER,FREELANDER,2 TD4 SE
 7.35,7.0,Dealer,57.0,First Owner,Diesel,Manual,22.7,1498,89.84,5,FORD,ECOSPORT,1.5 DV5 MT TITANIUM
 6.25,3.0,Dealer,4.74,First Owner,Petrol,Manual,18.7,1199,88.7,5,HONDA,JAZZ,1.2 V I VTEC
 1.1,11.0,Individual,100.0,First Owner,Petrol,Manual,19.7,796,46.3,5,MARUTI,ALTO,LXI
@@ -15267,7 +15267,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 5.0,8.0,Individual,40.0,First Owner,Diesel,Manual,20.5,1598,103.5,5,SKODA,RAPID,1.6 TDI AMBITION
 8.0,5.0,Dealer,50.0,First Owner,Diesel,Manual,24.3,1248,88.5,5,MARUTI,VITARA,BREZZA ZDI PLUS
 31.75,3.0,Dealer,96.644,First Owner,Diesel,Automatic,15.04,2755,174.5,7,TOYOTA,FORTUNER,2016-2021 2.8 4WD AT BSIV
-40.0,9.0,Dealer,158.648,First Owner,Diesel,Automatic,11.49,4367,335.3,5,LAND,ROVER,RANGE ROVER LWB 4.4 SDV8 VOGUE SE
+40.0,9.0,Dealer,158.648,First Owner,Diesel,Automatic,11.49,4367,335.3,5,LAND-ROVER,RANGE,ROVER LWB 4.4 SDV8 VOGUE SE
 4.25,2.0,Dealer,8.5,First Owner,Petrol,Automatic,24.04,999,67.0,5,RENAULT,KWID,1.0 RXT AMT BSIV
 4.6,6.0,Dealer,35.0,First Owner,Petrol,Automatic,23.1,998,67.04,5,MARUTI,CELERIO,ZXI AT
 11.75,9.0,Dealer,75.0,First Owner,Diesel,Automatic,12.55,2982,168.7,7,TOYOTA,FORTUNER,4X2 AT TRD SPORTIVO
@@ -15436,7 +15436,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 7.75,4.0,Dealer,26.0,First Owner,Petrol,Manual,20.73,1373,91.1,5,MARUTI,CIAZ,1.4 ALPHA
 5.45,10.0,Dealer,100.0,First Owner,Diesel,Manual,11.5,1991,147.9,7,CHEVROLET,CAPTIVA,LT
 6.1,5.0,Dealer,42.7,First Owner,Petrol,Manual,21.4,1197,83.1,5,MARUTI,BALENO,DELTA 1.2
-24.0,7.0,Dealer,52.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND,ROVER,RANGE ROVER EVOQUE 2.2L PURE
+24.0,7.0,Dealer,52.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND-ROVER,RANGE,ROVER EVOQUE 2.2L PURE
 6.0,5.0,Individual,30.0,First Owner,Petrol,Manual,18.7,1199,88.7,5,HONDA,JAZZ,1.2 SV I VTEC
 7.86,6.0,Individual,72.0,First Owner,Diesel,Manual,20.77,1248,88.8,7,MARUTI,ERTIGA,ZDI
 1.0,12.0,Dealer,97.98,First Owner,Petrol,Manual,14.7,1150,76.0,5,CHEVROLET,AVEO,U-VA 1.2 LT
@@ -15860,7 +15860,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 2.5,10.0,Dealer,32.908,First Owner,Petrol,Manual,18.9,998,67.1,5,MARUTI,WAGON,R LXI
 4.5,10.0,Dealer,78.0,First Owner,Diesel,Manual,21.9,1396,90.0,5,HYUNDAI,I20,MAGNA 1.4 CRDI
 6.4,4.0,Individual,12.351,First Owner,Petrol,Manual,21.4,1197,83.1,5,MARUTI,BALENO,ZETA 1.2
-39.5,5.0,Dealer,62.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND,ROVER,RANGE ROVER EVOQUE PURE
+39.5,5.0,Dealer,62.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND-ROVER,RANGE,ROVER EVOQUE PURE
 6.95,8.0,Dealer,63.0,First Owner,Petrol,Manual,12.8,2354,177.6,5,HONDA,NEW,ACCORD 2011-2014 2.4 M/T
 2.2,12.0,Dealer,63.0,First Owner,Petrol,Manual,16.1,1197,85.0,5,MARUTI,SWIFT,LXI BSIV
 5.49,4.0,Dealer,25.1,First Owner,Petrol,Manual,18.9,1197,82.0,5,HYUNDAI,GRAND,I10 ASTA OPTION
@@ -16500,7 +16500,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 4.0,10.0,Dealer,80.93,First Owner,Petrol,Manual,17.5,1197,85.8,5,MARUTI,SWIFT,DZIRE 1.2 VXI BSIV
 9.85,4.0,Dealer,68.0,First Owner,Diesel,Manual,15.4,1997,120.0,7,MAHINDRA,SCORPIO,1.99 S6 PLUS
 8.5,5.0,Individual,110.0,First Owner,Diesel,Manual,24.52,1248,88.5,7,MARUTI,ERTIGA,SHVS ZDI PLUS
-47.5,2.0,Dealer,4.0,First Owner,Diesel,Automatic,12.83,2179,147.5,7,LAND,ROVER,DISCOVERY SPORT 2015-2020 TD4 SE 7S
+47.5,2.0,Dealer,4.0,First Owner,Diesel,Automatic,12.83,2179,147.5,7,LAND-ROVER,DISCOVERY,SPORT 2015-2020 TD4 SE 7S
 3.2,9.0,Individual,77.0,First Owner,Diesel,Manual,21.64,1461,84.8,5,NISSAN,SUNNY,DIESEL XL
 3.15,5.0,Dealer,64.0,First Owner,Petrol,Manual,18.6,1199,76.8,5,CHEVROLET,BEAT,LS
 1.3,11.0,Individual,22.0,First Owner,Petrol,Manual,15.37,1196,73.0,5,MARUTI,EECO,5 SEATER STANDARD BSIV
@@ -16580,7 +16580,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 1.2,13.0,Individual,80.0,First Owner,Petrol,Manual,17.92,1086,62.1,5,HYUNDAI,SANTRO,XING GLS
 2.75,14.0,Dealer,74.0,First Owner,Diesel,Manual,13.5,2179,115.0,5,MAHINDRA,SCORPIO,M2DI
 12.5,9.0,Individual,90.0,First Owner,Diesel,Automatic,17.68,1968,174.33,5,AUDI,A6,2.0 TDI
-17.5,8.0,Dealer,100.0,First Owner,Diesel,Automatic,0.0,2179,115.0,5,LAND,ROVER,FREELANDER 2 TD4 SE
+17.5,8.0,Dealer,100.0,First Owner,Diesel,Automatic,0.0,2179,115.0,5,LAND-ROVER,FREELANDER,2 TD4 SE
 4.9,10.0,Individual,70.0,First Owner,Diesel,Manual,19.33,1968,138.1,5,VOLKSWAGEN,JETTA,2.0L TDI COMFORTLINE
 9.45,5.0,Dealer,70.0,First Owner,Diesel,Manual,12.99,2494,100.6,7,TOYOTA,INNOVA,2.5 GX (DIESEL) 7 SEATER
 8.0,4.0,Individual,110.0,First Owner,Diesel,Manual,22.54,1396,88.73,5,HYUNDAI,I20,2015-2017 ASTA OPTION 1.4 CRDI
@@ -16752,7 +16752,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 7.65,5.0,Dealer,36.355,First Owner,Diesel,Manual,24.3,1248,88.5,5,MARUTI,VITARA,BREZZA ZDI PLUS
 7.7,1.0,Individual,4.5,First Owner,Petrol,Manual,20.0,999,71.0,7,RENAULT,TRIBER,RXZ
 4.97,5.0,Individual,70.0,First Owner,Diesel,Manual,25.2,1248,74.0,5,MARUTI,SWIFT,LDI OPTIONAL
-14.5,9.0,Dealer,66.0,First Owner,Diesel,Automatic,12.35,2179,187.74,5,LAND,ROVER,FREELANDER 2 HSE SD4
+14.5,9.0,Dealer,66.0,First Owner,Diesel,Automatic,12.35,2179,187.74,5,LAND-ROVER,FREELANDER,2 HSE SD4
 5.7,3.0,Individual,20.0,First Owner,Petrol,Manual,20.14,1197,81.86,5,HYUNDAI,XCENT,1.2 VTVT S
 7.5,2.0,Individual,8.7,First Owner,Petrol,Manual,19.5,1199,88.76,5,HONDA,AMAZE,VX PETROL BSIV
 3.0,11.0,Individual,100.0,First Owner,Petrol,Manual,16.2,1599,103.2,5,HYUNDAI,VERNA,TRANSFORM VTVT WITH AUDIO
@@ -17146,7 +17146,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 3.7,10.0,Individual,111.821,First Owner,Diesel,Manual,12.2,1948,68.0,10,TATA,SUMO,EX 10/7 STR BSIII
 1.55,11.0,Individual,45.0,First Owner,Petrol,Manual,19.81,1086,68.05,5,HYUNDAI,I10,ERA
 7.0,2.0,Individual,25.0,First Owner,Petrol,Manual,21.01,1197,81.8,5,MARUTI,BALENO,ZETA
-27.0,5.0,Individual,104.0,First Owner,Diesel,Automatic,12.51,2179,187.7,7,LAND,ROVER,DISCOVERY SPORT 2015-2020 SD4 HSE LUXURY 7S
+27.0,5.0,Individual,104.0,First Owner,Diesel,Automatic,12.51,2179,187.7,7,LAND-ROVER,DISCOVERY,SPORT 2015-2020 SD4 HSE LUXURY 7S
 7.4,3.0,Dealer,30.0,First Owner,Petrol,Manual,22.0,1197,81.8,5,MARUTI,SWIFT,DZIRE VXI 1.2 BS IV
 11.15,5.0,Dealer,55.0,First Owner,Diesel,Manual,19.67,1582,126.2,5,HYUNDAI,CRETA,1.6 CRDI SX OPTION
 6.0,6.0,Individual,80.0,First Owner,Diesel,Manual,27.3,1498,98.6,5,HONDA,JAZZ,1.5 V I DTEC
@@ -18214,7 +18214,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 6.2,6.0,Individual,90.0,First Owner,Diesel,Manual,26.0,1498,98.6,5,HONDA,CITY,I DTEC SV
 7.8,7.0,Individual,90.0,First Owner,Diesel,Manual,15.1,2179,140.0,7,MAHINDRA,XUV500,W8 2WD
 3.5,11.0,Individual,36.0,First Owner,Petrol,Manual,16.6,1197,85.0,5,MARUTI,SWIFT,VXI WITH ABS
-26.0,8.0,Dealer,89.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND,ROVER,RANGE ROVER EVOQUE 2.2L DYNAMIC
+26.0,8.0,Dealer,89.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND-ROVER,RANGE,ROVER EVOQUE 2.2L DYNAMIC
 2.9,4.0,Individual,50.0,First Owner,Petrol,Manual,24.7,796,47.3,5,MARUTI,ALTO,800 LXI
 2.4,5.0,Dealer,36.583,First Owner,Petrol,Manual,20.63,1198,67.0,5,DATSUN,GO,T BSIV
 8.25,9.0,Dealer,74.0,First Owner,Diesel,Manual,15.1,2179,140.0,7,MAHINDRA,XUV500,W8 2WD
@@ -18713,7 +18713,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 5.2,3.0,Individual,18.6,First Owner,Petrol,Manual,22.0,1197,81.8,5,MARUTI,SWIFT,LXI
 12.95,9.0,Dealer,85.25,First Owner,Diesel,Automatic,16.55,1968,140.0,5,AUDI,A4,2.0 TDI MULTITRONIC
 7.1,3.0,Individual,60.0,First Owner,Petrol,Manual,21.4,1197,83.1,5,MARUTI,BALENO,ALPHA 1.2
-57.0,7.0,Dealer,61.0,First Owner,Diesel,Automatic,12.65,2993,296.0,5,LAND,ROVER,RANGE ROVER SPORT 3.0 D HSE
+57.0,7.0,Dealer,61.0,First Owner,Diesel,Automatic,12.65,2993,296.0,5,LAND-ROVER,RANGE,ROVER SPORT 3.0 D HSE
 6.8,4.0,Dealer,26.0,First Owner,Petrol,Manual,16.47,1198,74.0,5,VOLKSWAGEN,POLO,1.2 MPI HIGHLINE
 6.5,5.0,Dealer,72.0,First Owner,Diesel,Manual,20.14,1498,88.0,5,VOLKSWAGEN,POLO,2015-2019 1.5 TDI HIGHLINE
 5.25,6.0,Individual,72.6,First Owner,Petrol,Manual,17.01,1591,121.4,5,HYUNDAI,VERNA,1.6 VTVT S OPTION
@@ -18747,7 +18747,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 10.8,2.0,Individual,28.0,First Owner,Diesel,Manual,22.0,1582,126.2,5,HYUNDAI,VERNA,CRDI 1.6 SX OPTION
 1.3,16.0,Dealer,48.0,First Owner,Petrol,Manual,17.3,993,60.0,5,MARUTI,ZEN,LXI - BS III
 6.25,4.0,Dealer,19.0,First Owner,Petrol,Manual,20.4,1197,81.8,5,MARUTI,SWIFT,VXI OPTIONAL
-49.0,8.0,Dealer,51.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND,ROVER,RANGE ROVER EVOQUE 2.2L DYNAMIC
+49.0,8.0,Dealer,51.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND-ROVER,RANGE,ROVER EVOQUE 2.2L DYNAMIC
 5.5,9.0,Individual,112.0,First Owner,Diesel,Manual,23.4,1248,74.0,5,MARUTI,SWIFT,DZIRE ZDI
 9.45,4.0,Dealer,61.0,First Owner,Diesel,Manual,24.3,1248,88.5,5,MARUTI,VITARA,BREZZA ZDI PLUS
 7.3,5.0,Dealer,60.0,First Owner,Diesel,Manual,28.09,1248,88.5,5,MARUTI,CIAZ,ZDI SHVS
@@ -18900,7 +18900,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 2.15,7.0,Dealer,73.0,First Owner,Diesel,Manual,25.44,936,57.6,5,CHEVROLET,BEAT,DIESEL LS
 2.6,12.0,Individual,63.0,First Owner,Petrol,Manual,17.0,1497,118.0,5,HONDA,CITY,1.5 S MT
 0.51,23.0,Individual,70.0,First Owner,Petrol,Manual,16.1,796,37.0,4,MARUTI,800,STD
-37.0,6.0,Dealer,56.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND,ROVER,RANGE ROVER EVOQUE 2.2L PRESTIGE
+37.0,6.0,Dealer,56.0,First Owner,Diesel,Automatic,12.7,2179,187.7,5,LAND-ROVER,RANGE,ROVER EVOQUE 2.2L PRESTIGE
 2.4,8.0,Dealer,32.0,First Owner,Petrol,Manual,23.95,998,67.05,5,MARUTI,ALTO,K10 VXI
 5.8,4.0,Dealer,54.0,First Owner,Petrol,Manual,21.4,1197,83.1,5,MARUTI,BALENO,DELTA 1.2
 3.85,9.0,Dealer,53.0,First Owner,Diesel,Manual,21.9,1396,90.0,5,HYUNDAI,I20,1.4 CRDI MAGNA
@@ -19525,7 +19525,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 4.9,7.0,Individual,110.0,First Owner,Diesel,Manual,26.0,1498,98.6,5,HONDA,CITY,I DTEC SV
 2.55,8.0,Dealer,64.0,First Owner,CNG,Manual,26.2,998,58.2,5,MARUTI,WAGON,R LXI CNG
 2.2,9.0,Individual,70.0,First Owner,Petrol,Manual,18.9,998,67.1,5,MARUTI,WAGON,R LXI MINOR
-29.0,5.0,Dealer,114.0,First Owner,Diesel,Automatic,12.51,2179,187.7,7,LAND,ROVER,DISCOVERY SPORT 2015-2020 SD4 HSE LUXURY 7S
+29.0,5.0,Dealer,114.0,First Owner,Diesel,Automatic,12.51,2179,187.7,7,LAND-ROVER,DISCOVERY,SPORT 2015-2020 SD4 HSE LUXURY 7S
 24.99,4.0,Dealer,16.0,First Owner,Diesel,Automatic,17.9,2143,136.0,5,MERCEDES-BENZ,CLA,200 CDI SPORT
 4.65,5.0,Dealer,10.0,First Owner,Petrol,Manual,22.0,1197,81.8,5,MARUTI,SWIFT,VXI BSIV
 2.1,12.0,Individual,100.0,First Owner,Petrol,Manual,19.81,1086,68.05,5,HYUNDAI,I10,MAGNA 1.1 ITECH SE
@@ -19605,7 +19605,7 @@ selling_price (in lakhs),age,seller_type,km_driven (in thousands),owner_type,fue
 8.35,4.0,Dealer,30.798,First Owner,Diesel,Automatic,28.4,1248,74.02,5,MARUTI,SWIFT,DZIRE AMT ZDI PLUS
 3.85,6.0,Individual,60.0,First Owner,Petrol,Manual,23.1,998,67.04,5,MARUTI,CELERIO,VXI
 6.55,6.0,Dealer,45.0,First Owner,Petrol,Automatic,16.93,1197,103.2,5,VOLKSWAGEN,VENTO,1.2 TSI HIGHLINE AT
-26.75,5.0,Dealer,128.0,First Owner,Diesel,Automatic,12.63,2179,147.5,5,LAND,ROVER,DISCOVERY SPORT 2015-2020 TD4 HSE
+26.75,5.0,Dealer,128.0,First Owner,Diesel,Automatic,12.63,2179,147.5,5,LAND-ROVER,DISCOVERY,SPORT 2015-2020 TD4 HSE
 7.5,3.0,Individual,10.0,First Owner,Petrol,Manual,18.6,1197,81.83,5,HYUNDAI,I20,1.2 ASTA OPTION
 6.25,7.0,Dealer,95.0,First Owner,Petrol,Automatic,16.93,1197,103.6,5,VOLKSWAGEN,VENTO,TSI
 3.95,9.0,Dealer,64.0,First Owner,Petrol,Manual,20.36,1197,78.9,5,HYUNDAI,I10,SPORTZ 1.2
