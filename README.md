@@ -18,9 +18,18 @@ Dashboard Link
 ## Overview
 The Project revolves around working with unclean data of automobile resale in India to draw meaningful insights and create a resale value predictor.<br>
 The domains worked with over here are :- <br> 
- - **Data Wrangling** to clean the raw data.
- - **Data Analysis** to draw insights from the cleaned data.
- - **Machine Learning** to create the prediction model.
+ - Data Wrangling
+ - Data Analysis
+ - Machine Learning<br>
+<!-- end of the list -->
+Libraries used in this project are:- <br>
+ - pandas
+ - numpy
+ - matplotlib
+ - seaborn
+ - scikit_learn
+ - project
+ - tabulate
  
 ## Problem Introduction
 ### What?
@@ -31,6 +40,7 @@ The domains worked with over here are :- <br>
 >The new entrants and smaller dealers often do not have access to market data or high end mechanics. I aim to simplify their decision making on what car to buy for resale and waht price by looking at the market composition and predicted price.
 
 ## Methodology
+Before diving into the methodology, the most basics steps were to find the right dataset, set up the project on IBM Waston Studio and Github Repository, and install/import all the neccessary libraries.
 <details>
 <summary>Step 1 - Data Cleaning</summary>
 The Unclean raw data is cleaned and exported as new sheet to be used later<br>
@@ -64,7 +74,7 @@ The file selected is _Caradekho__Extract.csv_.
 ### Cleaning
 The data was in a rather unclean staet with lots unwanted features and null values.<br>
 First the percentage of null values was seen for each feature.<br>
-The _new-price_ column was 50% missing so i went ahead and dropped it completely. For the rest of the null values, simply tjose observations were droppped.
+The _new-price_ column was 50% missing so i went ahead and dropped it completely. For the rest of the null values, simply those observations were dropped.<br>
 Given below is a feature wise process of waht was done to clean the data:- <br>
 #### Source. Name
 > This column is basically the source from where this data was taken thus making it irrelevant to our final outcome. This column was dropped
@@ -79,3 +89,29 @@ _model_ column contains the car model.<br>
 _variant_ column contains the car variant.<br>
 This was done ```.str.upper()``` (upper casing) and ```.str.split(" ", n = 2, expand = True)``` (string splitting)<br>
 The cars with no variant were given the model as variant parameter.
+#### selling_price
+> This column contains the selling price of the cars in string format i.e. _x.yLakh*_ where _x.y_ being the numeric price.<br>
+This was done by ```.str.split(" ", n = 1, expand = True)``` (string splitting) and converting the resultant value to float to be used in future.
+#### year
+>The _year_ column is the year of vehicle's manafacture.<br>
+For easy processing and understanding it was converted to _age_ by subtracting the year of manafacture from the current year i.e. 2021 using ```2021 - data['year']``` from pandas
+#### km_driven
+>This column displayed the kilometres driven with the car.<br>
+String opeartions similar to what were done for _selling___price_ column were done.<br>
+The final output was divided by 1000 to have a much lesser scale to the whole column thus making visualisation easier and reanmed to _km_driven (in thousands)_
+#### mileage
+>This column displayed the mileage the car.<br>
+String opeartions similar to what were done for _selling___price_ column were done.<br>
+The final output was converted to float.
+#### engine
+>This column displayed the engine size of the car.<br>
+String opeartions similar to what were done for _selling___price_ column were done.<br>
+The final output was converted to integer and renamed as _km_driven (in thousands)_
+#### max_power
+>This column displayed the maximum power of the car.<br>
+String opeartions similar to what were done for _selling___price_ column were done.<br>
+The final output was converted to float and renamed to _max_power (in bhp)_.
+#### seats
+>This column displayed the seats in the car.<br>
+String opeartions similar to what were done for _selling___price_ column were done.<br>
+The final output was converted integer.
