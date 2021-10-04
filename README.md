@@ -116,3 +116,5 @@ The final output was converted to float and renamed to _max_power (in bhp)_.
 >This column displayed the seats in the car.<br>
 String opeartions similar to what were done for _selling___price_ column were done.<br>
 The final output was converted integer.
+### Export
+The new dataframe with all the cleaned features was exported with the name ```car_data_cleaned.csv``` (<a href='https://github.com/bhaveshjain1612/Car-Resale-Analysis-and-Prediction/blob/main/car_data_cleaned.csv'>Link Here</a>)
