@@ -1,28 +1,17 @@
-﻿![](Aspose.Words.74902a11-0979-469f-b5cc-38059ff1f800.001.png)
+<p><h1>Car Resale Analysis and Prediction</h1></p>
 
-||
-| :- |
-||<p><h1>**Car Resale Analysis**</h1></p><p><h1>**and Prediction**</h1></p>||
-||||
-||||
-||<h2></h2>||
-||<p><h2>Date</h2></p><p><h2>—</h2></p><p><h2>Bhavesh Jain</h2></p><p><h2>—</h2></p><p><h2>A Data Science Project</h2></p><p></p>||
-||||
 # **Index**
-
-
-
 |**S.no.**|**Content**|**Page**|
 | :- | :- | :- |
 |1|Overview|3|
 |2|Introduction||
 |3|Methodology||
 |4|Procedure||
-|`   `4.1|1. Data Wrangling||
-|`   `4.2|2. Exploratory Data Analysis||
-|`   `4.3|3. Data Visualization ||
-|`   `4.4|4. Dashboarding||
-|`   `4.5|5. Predictive Analysis||
+|   4.1|1. Data Wrangling||
+|4.2|2. Exploratory Data Analysis||
+|4.3|3. Data Visualization ||
+|4.4|4. Dashboarding||
+|4.5|5. Predictive Analysis||
 |5|Observations||
 |6|Results||
 |7|Scope of Improvement||
@@ -58,7 +47,7 @@ The problem is to create an **analytics dashboard** for an easy and visual expla
 ## **Who?**
 The primary target audience for the outcome of this study comprises **second** and **third-hand car dealers** who do not have access to the high-priced services that are charged by experienced industry analysts. This is also meant to aid **new entrants** to the market and **car companies** too.
 ## **How?**
-## Existing Car Dealers
+### Existing Car Dealers
 They have been in the industry for a while but are often blindsided whenever someone brings a car to them they haven’t sold earlier. In such a case they may be required to consult analysts to see what is the market share of the ca and so on. 
 
 ##
